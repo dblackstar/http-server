@@ -1,0 +1,23 @@
+body{
+    background-color: #002947;
+    color: #FFF2CE;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+    height: 100vh;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #095185;
+    font-size: 18px;
+}
+
+a{
+    text-decoration: none;
+    padding: 0 20px;
+    color: crimson;
+}
